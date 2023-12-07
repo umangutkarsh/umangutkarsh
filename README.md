@@ -4,11 +4,11 @@
 
 <p align="center"> <a href="https://twitter.com/umangutkarsh_" target="blank"><img src="https://img.shields.io/twitter/follow/umangutkarsh_?logo=twitter&style=for-the-badge" alt="umangutkarsh_" /></a> </p>
 
-- 🔭 I’m currently working on **Virtual Machines**
+- 🔭 I’m currently working on **Virtual Machines and DevOps**
 
 - 🌱 I’m currently learning **Angular, React, Next.js, and KubeVirt**
 
-- 👯 I’m looking to collaborate on **Real-World Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/umangutkarsh?tab=repositories](https://github.com/umangutkarsh?tab=repositories)
 
