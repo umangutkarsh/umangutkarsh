@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Virtual Machines and DevOps**
 
-- 🌱 I’m currently learning **Angular, React, Next.js, and KubeVirt**
+- 🌱 I’m currently learning **Angular, React, and Openshift CRCs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
