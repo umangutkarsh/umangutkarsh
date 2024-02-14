@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Virtual Machines and DevOps**
 
-- 🌱 I’m currently learning **Angular, Next.js, and Golang**
+- 🌱 I’m currently learning **Next.js, and Golang**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
