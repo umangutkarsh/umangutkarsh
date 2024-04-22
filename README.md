@@ -4,9 +4,9 @@
 
 <p align="center"> <a href="https://twitter.com/umangutkarsh_" target="blank"><img src="https://img.shields.io/twitter/follow/umangutkarsh_?logo=twitter&style=for-the-badge" alt="umangutkarsh_" /></a> </p>
 
-- 🔭 I’m currently working on **Virtual Machines and DevOps**
+- 🔭 I’m currently contributing to **Rocket.Chat**
 
-- 🌱 I’m currently learning **Next.js, and Golang**
+- 🌱 I’m currently learning **Next.js, Golang and Rocket.Chat app development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
